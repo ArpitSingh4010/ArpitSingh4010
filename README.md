@@ -8,93 +8,76 @@
 
 ## 🚀 About Me  
 
-I’m a **developer** passionate about building scalable apps, exploring machine learning, and contributing to open source. I enjoy turning ideas into real-world projects and creating solutions with clean design and strong functionality.  
+I’m a **developer** passionate about building scalable apps, exploring machine learning, and contributing to open source.  
+I enjoy turning ideas into real-world projects and creating solutions with clean design and strong functionality.  
 
 - 💻 **Full Stack Developer** – Crafting responsive and dynamic applications  
 - 🤖 **AI/ML Enthusiast** – Exploring algorithms, model training, and applications  
 - 🌐 Open to **collaborations and exciting projects**  
 
----
-
-## 🛠️ Technical Skills  
-
-**Languages**  
-`C` • `C++` • `Python` • `Java` • `JavaScript`  
-
-**Web Development**  
-`HTML5` • `CSS3` • `React` • `Next.js` • `Tailwind CSS` • `Express.js`  
-
-**Databases & Tools**  
-`MongoDB` • `Git/GitHub` • `VS Code` • `Postman`  
+Currently exploring **Generative AI** and enhancing my problem-solving skills through **LeetCode & HackerRank** challenges.  
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ My Tech Stack  
 
-### 🌟 [InspireList](https://github.com/ArpitSingh4010/inspirelist)  
-_A daily inspiration & goal tracker with elegant UI_  
-- Built with **React + TailwindCSS**  
-- Full CRUD support with local storage persistence  
-- Smooth transitions, gradient designs, and progress visibility  
+<p align="center">
 
-### 📄 [PDF Merger](https://github.com/ArpitSingh4010/pdf-merger)  
-_A privacy-first client-side PDF merging tool_  
-- Developed using **Next.js + TailwindCSS**  
-- Drag-and-drop interface, responsive across devices  
-- Runs fully on client-side, ensuring user data security  
+### **Languages**
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### ⚡ [Multi-Core CPU Simulator](https://github.com/ArpitSingh4010/Multi-Core_CPU-Simulator)  
-_A simulator to understand CPU process scheduling & parallel execution_  
-- Implements **multi-core scheduling algorithms**  
-- Visual representation of **task execution & distribution**  
-- Helps in analyzing **performance and CPU utilization**  
+### **Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
----
+### **Backend & Databases**
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-## 📊 GitHub Insights  
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitSingh4010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitSingh4010&theme=tokyonight&hide_border=true" height="160" />
-</div>  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSingh4010&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>  
+</p>
 
 ---
 
-## 📈 Currently Exploring  
+## 🚀 Featured Project  
 
-- 🤖 **Machine Learning** – Algorithms, preprocessing, and real-world applications  
-- 🧠 **Generative AI** – LLMs, prompt engineering, and AI-powered apps  
-- 📊 **Data Structures & Algorithms** – Optimizing problem-solving skills  
-
----
-
-## 🌐 Let’s Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitsinght/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/fWfaQT25L5/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arpitsinght25)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arpitsinght25@gmail.com)  
+### 🔹 [Multi-Core CPU Simulator](https://github.com/ArpitSingh4010/Multi-Core_CPU-Simulator)  
+A **Multi-Core CPU Simulator** built to understand and demonstrate the working of multi-core systems.  
+- Implements process scheduling and resource management.  
+- Simulates real-world CPU operations in a simplified environment.  
 
 ---
 
-## 🎯 Goals & Aspirations  
-
-- 🔭 Keep expanding knowledge of **emerging technologies**  
-- 🌱 Contribute more to **open-source projects**  
-- 👯 Collaborate on impactful **software solutions**  
-- 🚀 Build a strong career in **full-stack development & AI/ML**  
+## 🌱 Currently Exploring  
+- ⚡ Generative AI  
+- ⚡ Advanced Data Structures & Algorithms  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArpitSingh4010&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>  
+## 🤝 Let's Connect  
+
+<p align="center">
+  <a href="mailto:arpitsinght25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arpitsinght/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/fWfaQT25L5/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/arpitsinght25"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ---
 
-✨ _“Strive for progress, not perfection.”_  
+## 📌 How to Use  
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/ArpitSingh4010/Portfolio.git
