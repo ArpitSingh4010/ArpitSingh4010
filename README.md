@@ -41,6 +41,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitSingh4010&theme=tokyo-night&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpitSingh4010&theme=tokyonight" />
+</div>
+
 ---
 
 ## 🛠️ My Tech Stack  
@@ -174,17 +178,3 @@
 </div>  
 
 ---
-
-<div align="center">
-
-### 🎭 **Developer Humor**
-*Why do programmers prefer dark mode?*  
-*Because light attracts bugs! 🐛*
-
----
-
-**💡 "Code is poetry written in logic"**
-
-⭐️ From [Arpit Singh](https://github.com/ArpitSingh4010) with ❤️
-
-</div>
