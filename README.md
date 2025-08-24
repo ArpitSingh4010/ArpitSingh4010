@@ -10,7 +10,7 @@
 
 <div align="center">
   
-💡 I’m a **developer** passionate about building scalable apps, exploring machine learning, and contributing to open source.  
+💡 I'm a **developer** passionate about building scalable apps, exploring machine learning, and contributing to open source.  
 ✨ I enjoy turning ideas into real-world projects and creating solutions with clean design and strong functionality.  
 
 </div>  
@@ -23,6 +23,23 @@
 ⚡ Currently exploring <b>Generative AI</b> and enhancing my problem-solving skills through <b>LeetCode & HackerRank</b> challenges  
 
 </p>  
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitSingh4010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSingh4010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitSingh4010&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitSingh4010&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
@@ -54,22 +71,51 @@
 
 ---
 
+## 🏆 Achievements & Metrics
+
+<div align="center">
+
+| 📈 **GitHub Stats** | 🔥 **Streak** | 🌟 **Top Languages** |
+|---|---|---|
+| ![Commits](https://img.shields.io/github/commit-activity/y/ArpitSingh4010/ArpitSingh4010?style=for-the-badge&color=blue) | ![Current Streak](https://img.shields.io/badge/Current%20Streak-Check%20Above-orange?style=for-the-badge) | ![Top Language](https://img.shields.io/badge/Top%20Language-Check%20Above-green?style=for-the-badge) |
+
+### 📊 **Profile Analytics**
+![Profile Views](https://komarev.com/ghpvc/?username=ArpitSingh4010&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ArpitSingh4010?label=Followers&style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/ArpitSingh4010?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&label=Total+Stars)
+
+</div>
+
+---
+
 ## 📌 Featured Projects  
 
+<div align="center">
+
+### 🏆 **Project Showcase**
+
+</div>
+
 ### 🔹 [Multi-Core CPU Simulator](https://github.com/ArpitSingh4010/Multi-Core_CPU-Simulator)  
-A **Multi-Core CPU Simulator** built to understand and demonstrate the working of multi-core systems.  
-- Implements process scheduling and resource management.  
-- Simulates real-world CPU operations in a simplified environment.  
+**🖥️ System Programming Project**
+- 🚀 **Multi-core architecture simulation** with advanced process scheduling
+- ⚙️ **Resource management algorithms** for optimal CPU utilization  
+- 🎯 **Real-world CPU operations** in a controlled environment
+- 📊 **Performance metrics** and detailed system analysis
 
 ### 🔹 [InspireList](https://github.com/ArpitSingh4010/InspireList)  
-A **task management web app** designed to boost productivity.  
-- Create, manage, and organize daily tasks efficiently.  
-- Simple UI with persistent storage for seamless usage.  
+**✨ Productivity Enhancement Tool**
+- 📝 **Task management system** with intuitive user interface
+- 💾 **Persistent storage** for seamless task tracking
+- 🎨 **Modern UI/UX design** with responsive layouts
+- ⚡ **Real-time updates** and efficient task organization
 
 ### 🔹 [PDF Merger](https://github.com/ArpitSingh4010/PDF-Merger)  
-A **tool to merge multiple PDF files** into a single document.  
-- Built using Java.  
-- Efficient, lightweight, and easy to use.  
+**📄 Document Processing Tool**
+- 🔧 **Next.js-based PDF manipulation** with modern web technologies
+- ⚡ **Client-side processing** for privacy and efficiency
+- 🛡️ **Drag-and-drop interface** for seamless user experience
+- 🎯 **Responsive design** for cross-device compatibility
 
 ---
 
@@ -77,22 +123,33 @@ A **tool to merge multiple PDF files** into a single document.
 
 <div align="center">
 
+### 🌟 **Learning Journey**
+
 | Generative AI | Machine Learning | Competitive Programming | Problem-Solving |
 |---|---|---|---|
 | ![AI](https://img.shields.io/badge/-Generative_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white) | ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) |
 
+### 🎯 **Current Focus Areas**
+- 🤖 **Artificial Intelligence** - Exploring AI algorithms and applications
+- ✨ **Generative AI** - Working with AI models and prompt engineering  
+- 📊 **Data Structures & Algorithms** - Daily practice on coding platforms
+- 🌐 **Full-Stack Development** - Building scalable web applications
+
 </div>  
 
 ---
-## 🤝 Let’s Connect  
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
+
+### 💬 **Get In Touch**
 
 <a href="mailto:arpitsinght25@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>  
 
-<a href="https://www.linkedin.com/in/arpitsinght/">
+<a href="https://www.linkedin.com/in/arpit-singh-ab056a322/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 
@@ -108,7 +165,26 @@ A **tool to merge multiple PDF files** into a single document.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>  
 
+### 🌟 **Open for:**
+- 👥 **Collaborative Projects** - Let's build something amazing together!
+- 💼 **Freelance Opportunities** - Available for web development projects
+- 🎓 **Knowledge Sharing** - Always happy to learn and teach
+- 🚀 **Open Source Contributions** - Contributing to meaningful projects
+
 </div>  
 
 ---
-⭐️ From [Arpit Singh](https://github.com/ArpitSingh4010)  
+
+<div align="center">
+
+### 🎭 **Developer Humor**
+*Why do programmers prefer dark mode?*  
+*Because light attracts bugs! 🐛*
+
+---
+
+**💡 "Code is poetry written in logic"**
+
+⭐️ From [Arpit Singh](https://github.com/ArpitSingh4010) with ❤️
+
+</div>
