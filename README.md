@@ -38,11 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/ArpitSingh4010" alt="ArpitSingh4010's GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/ArpitSingh4010" alt="GitHub Contribution Chart" />
 </div>
 
 ---
