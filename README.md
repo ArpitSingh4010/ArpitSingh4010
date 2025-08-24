@@ -37,10 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitSingh4010&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/ArpitSingh4010" alt="GitHub Contribution Chart" />
-</div>
-
 ---
 
 ## 🛠️ My Tech Stack  
@@ -174,4 +170,6 @@
 </div>  
 
 ---
+
+
 </div>
