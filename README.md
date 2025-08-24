@@ -38,11 +38,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitSingh4010&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpitSingh4010&theme=tokyonight" />
+  <img src="https://ghchart.rshah.org/ArpitSingh4010" alt="ArpitSingh4010's GitHub Contribution Chart" />
 </div>
 
 ---
@@ -178,3 +178,4 @@
 </div>  
 
 ---
+</div>
