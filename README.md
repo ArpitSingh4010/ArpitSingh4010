@@ -1,175 +1,135 @@
-# 👋 Hi, I'm Arpit Singh  
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>  
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Arpit%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20%7C%20Systems%20Builder&descColor=8b949e&descAlignY=58&descSize=20" alt="header" />
 
-## 🚀 About Me  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SRM+IST+Chennai;Microsoft+Learn+Student+Ambassador;Backend+%7C+Full-Stack+Developer;Building+real-world+systems+with+clean+code)](https://git.io/typing-svg)
 
-<div align="center">
-  
-💡 I'm a **developer** passionate about building scalable apps, exploring machine learning, and contributing to open source.  
-✨ I enjoy turning ideas into real-world projects and creating solutions with clean design and strong functionality.  
-
-</div>  
-
-<p align="center">  
-
-🖥️ <b>Full Stack Developer</b> – Crafting responsive and dynamic applications <br>  
-🤖 <b>AI/ML Enthusiast</b> – Exploring algorithms, model training, and applications <br>  
-🌐 <b>Open to collaborations and exciting projects</b> <br>  
-⚡ Currently exploring <b>Generative AI</b> and enhancing my problem-solving skills through <b>LeetCode & HackerRank</b> challenges  
-
-</p>  
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitSingh4010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSingh4010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitSingh4010&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" />
 </div>
 
 ---
 
-## 🛠️ My Tech Stack  
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a **Computer Science undergraduate at SRM Institute of Science and Technology, Chennai** (CGPA: 9.00, graduating May 2028), building full-stack and backend systems that solve real problems.
 
-### 🌐 Languages  
-| C | C++ | Python | Java | JavaScript |  
-|---|---|---|---|---|  
-| ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-
-### 🎨 Frontend  
-| HTML5 | CSS3 | React | Next.js | Tailwind CSS |  
-|---|---|---|---|---|  
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-
-### ⚙️ Backend & Database  
-| Express.js | MongoDB |  
-|---|---|  
-| ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-### 🔧 Tools  
-| Git | GitHub | Postman | VS Code |  
-|---|---|---|---|  
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
-</div>  
+- 🏢 **Microsoft Learn Student Ambassador** — React-based platforms serving 100+ MLSA members at SRM IST
+- 🔧 **Backend-focused** — RESTful APIs, MVC architecture, JWT auth, role-based access control
+- 🌐 **Full-Stack** — Java Servlets/JSP + MERN stack (MongoDB, Express.js, React, Node.js)
+- 🗃️ **Database experience** — MySQL (normalized schemas, triggers, PreparedStatements) and MongoDB
+- 🤖 **Currently building** — Aadhar Sakhi, an AI chatbot for government scheme awareness in India
+- 🏆 **Certified** — Oracle Cloud Infrastructure 2025 AI Foundations Associate
+- ⚡ **Actively seeking** software engineering internships in backend/full-stack development
 
 ---
 
-## 🏆 Achievements & Metrics
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java Servlets](https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 AuraCare — Healthcare Management Platform
+> React · Node.js · Express.js · MongoDB · JWT · Cloudinary
+
+- 15+ RESTful APIs for patients, appointments, doctors & messaging (modular MVC backend)
+- JWT auth with bcrypt — 3 roles: Patient, Doctor, Admin with full RBAC
+- React admin dashboard with real-time appointment management & patient messaging
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)
+
+---
+
+### 💊 Pharmacy Inventory & Billing System
+> Java · Servlets · JSP · JDBC · MySQL
+
+- MVC-based inventory & billing system for 50+ products with automated workflows
+- SQL injection prevention via PreparedStatements; DB triggers for real-time stock updates
+- Modular DAO + controller layers with clean separation of business logic
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)
+
+---
+
+### 🏭 Industrial CMMS — Maintenance Tracking Platform
+> Java · Servlets · JSP · JDBC · MySQL · Chart.js
+
+- CMMS for 10+ machines across 4 roles: Admin, Engineer, Technician, Viewer
+- Role-based auth with session control; strict workflow separation between roles
+- Analytics dashboard with Chart.js visualizing maintenance trends & machine downtime
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 📈 **GitHub Stats** | 🔥 **Streak** | 🌟 **Top Languages** |
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitSingh4010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSingh4010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArpitSingh4010&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117)
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+| Certification | Issuer | Year |
 |---|---|---|
-| ![Commits](https://img.shields.io/github/commit-activity/y/ArpitSingh4010/ArpitSingh4010?style=for-the-badge&color=blue) | ![Current Streak](https://img.shields.io/badge/Current%20Streak-Check%20Above-orange?style=for-the-badge) | ![Top Language](https://img.shields.io/badge/Top%20Language-Check%20Above-green?style=for-the-badge) |
+| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | 2025 |
+| Microsoft Learn Student Ambassador | Microsoft | Oct 2024 – Present |
 
-### 📊 **Profile Analytics**
-![Profile Views](https://komarev.com/ghpvc/?username=ArpitSingh4010&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ArpitSingh4010?label=Followers&style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/ArpitSingh4010?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&label=Total+Stars)
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitsinght25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitsinght/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fWfaQT25L5/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arpitsinght25)
 
 </div>
 
 ---
 
-## 📌 Featured Projects  
-
 <div align="center">
 
-### 🏆 **Project Showcase**
+💼 **Open to backend/full-stack SWE internships** — let's build something meaningful!
 
-</div>
-
-### 🔹 [Multi-Core CPU Simulator](https://github.com/ArpitSingh4010/Multi-Core_CPU-Simulator)  
-**🖥️ System Programming Project**
-- 🚀 **Multi-core architecture simulation** with advanced process scheduling
-- ⚙️ **Resource management algorithms** for optimal CPU utilization  
-- 🎯 **Real-world CPU operations** in a controlled environment
-- 📊 **Performance metrics** and detailed system analysis
-
-### 🔹 [InspireList](https://github.com/ArpitSingh4010/InspireList)  
-**✨ Productivity Enhancement Tool**
-- 📝 **Task management system** with intuitive user interface
-- 💾 **Persistent storage** for seamless task tracking
-- 🎨 **Modern UI/UX design** with responsive layouts
-- ⚡ **Real-time updates** and efficient task organization
-
-### 🔹 [PDF Merger](https://github.com/ArpitSingh4010/PDF-Merger)  
-**📄 Document Processing Tool**
-- 🔧 **Next.js-based PDF manipulation** with modern web technologies
-- ⚡ **Client-side processing** for privacy and efficiency
-- 🛡️ **Drag-and-drop interface** for seamless user experience
-- 🎯 **Responsive design** for cross-device compatibility
-
----
-
-## 📖 Currently Exploring  
-
-<div align="center">
-
-### 🌟 **Learning Journey**
-
-| Generative AI | Machine Learning | Competitive Programming | Problem-Solving |
-|---|---|---|---|
-| ![AI](https://img.shields.io/badge/-Generative_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white) | ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) |
-
-### 🎯 **Current Focus Areas**
-- 🤖 **Artificial Intelligence** - Exploring AI algorithms and applications
-- ✨ **Generative AI** - Working with AI models and prompt engineering  
-- 📊 **Data Structures & Algorithms** - Daily practice on coding platforms
-- 🌐 **Full-Stack Development** - Building scalable web applications
-
-</div>  
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### 💬 **Get In Touch**
-
-<a href="mailto:arpitsinght25@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
-
-<a href="https://www.linkedin.com/in/arpit-singh-ab056a322/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
-
-<a href="https://leetcode.com/u/fWfaQT25L5/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>  
-
-<a href="https://www.hackerrank.com/profile/arpitsinght25">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>  
-
-<a href="https://github.com/ArpitSingh4010">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-
-### 🌟 **Open for:**
-- 👥 **Collaborative Projects** - Let's build something amazing together!
-- 💼 **Freelance Opportunities** - Available for web development projects
-- 🎓 **Knowledge Sharing** - Always happy to learn and teach
-- 🚀 **Open Source Contributions** - Contributing to meaningful projects
-
-</div>  
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" alt="footer" />
 
 </div>
