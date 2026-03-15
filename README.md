@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Arpit%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20%7C%20Systems%20Builder&descColor=8b949e&descAlignY=58&descSize=20" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SRM+IST+Chennai;Microsoft+Learn+Student+Ambassador;Backend+%7C+Full-Stack+Developer;Building+real-world+systems+with+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SRM+IST+Chennai;Web+Developer+%40+MLSA+Club+SRM+IST;Backend+%7C+Full-Stack+Developer;Building+real-world+systems+with+clean+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 I'm a **Computer Science undergraduate at SRM Institute of Science and Technology, Chennai** (CGPA: 9.00, graduating May 2028), building full-stack and backend systems that solve real problems.
 
-- 🏢 **Microsoft Learn Student Ambassador** — React-based platforms serving 100+ MLSA members at SRM IST
+- 🏢 **Web Developer @ MLSA Club, SRM IST** — building & maintaining React-based internal platforms for 100+ club members
 - 🔧 **Backend-focused** — RESTful APIs, MVC architecture, JWT auth, role-based access control
 - 🌐 **Full-Stack** — Java Servlets/JSP + MERN stack (MongoDB, Express.js, React, Node.js)
 - 🗃️ **Database experience** — MySQL (normalized schemas, triggers, PreparedStatements) and MongoDB
@@ -108,7 +108,6 @@ I'm a **Computer Science undergraduate at SRM Institute of Science and Technolog
 | Certification | Issuer | Year |
 |---|---|---|
 | Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | 2025 |
-| Microsoft Learn Student Ambassador | Microsoft | Oct 2024 – Present |
 
 ---
 
