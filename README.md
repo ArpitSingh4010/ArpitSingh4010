@@ -12,7 +12,6 @@
 
 I'm a **Computer Science undergraduate at SRM Institute of Science and Technology, Chennai** (CGPA: 9.00, graduating May 2028), building full-stack and backend systems that solve real problems.
 
-- 🏢 **Web Developer @ MLSA Club, SRM IST** — building & maintaining React-based internal platforms for 100+ club members
 - 🔧 **Backend-focused** — RESTful APIs, MVC architecture, JWT auth, role-based access control
 - 🌐 **Full-Stack** — Java Servlets/JSP + MERN stack (MongoDB, Express.js, React, Node.js)
 - 🗃️ **Database experience** — MySQL (normalized schemas, triggers, PreparedStatements) and MongoDB
