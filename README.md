@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Arpit%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20%7C%20Systems%20Builder&descColor=8b949e&descAlignY=58&descSize=20" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SRM+IST+Chennai;Web+Developer+%40+MLSA+Club+SRM+IST;Backend+%7C+Full-Stack+Developer;Building+real-world+systems+with+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+SRM+IST+Chennai+(CGPA%3A+9.00);Web+Developer+%40+MLSA+Club+SRM+IST;Backend+%7C+Full-Stack+Developer;Building+real-world+systems+with+clean+code;Oracle+Cloud+AI+Foundations+Certified)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,6 +36,7 @@ I'm a **Computer Science undergraduate at SRM Institute of Science and Technolog
 ![Java Servlets](https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Python Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,41 +52,67 @@ I'm a **Computer Science undergraduate at SRM Institute of Science and Technolog
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 AuraCare — Healthcare Management Platform
-> React · Node.js · Express.js · MongoDB · JWT · Cloudinary
+### 🤖 RakshaRide — AI-Powered Parametric Insurance for Gig Workers
+> React · Node.js · Express.js · MongoDB · Python Flask · Razorpay · Weather/AQI APIs
 
-- 15+ RESTful APIs for patients, appointments, doctors & messaging (modular MVC backend)
-- JWT auth with bcrypt — 3 roles: Patient, Doctor, Admin with full RBAC
-- React admin dashboard with real-time appointment management & patient messaging
+- AI-powered micro-insurance platform detecting real income disruption via weather, AQI, and platform activity signals — auto-triggers claims with zero manual intervention
+- Guidewire-aligned architecture (PolicyCenter, ClaimCenter, BillingCenter) with dynamic premium engine, fraud scoring, and IRDAI compliance enforcement
+- Built with Team OriginX (4 members) at hackathon; live deployment with demo video
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010/OriginX-Shield-Parametric-Protection-for-Delivery-Partners)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raksha-ride.vercel.app/)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fXFalfp_7NA?si=Xr1wwxWuCuQ--4ba)
 
 ---
 
-### 💊 Pharmacy Inventory & Billing System
-> Java · Servlets · JSP · JDBC · MySQL
+### 🏥 AuraCare — Hospital Management Platform
+> React 19 · Node.js · Express.js · MongoDB · JWT · Cloudinary · Vite 7
 
-- MVC-based inventory & billing system for 50+ products with automated workflows
-- SQL injection prevention via PreparedStatements; DB triggers for real-time stock updates
-- Modular DAO + controller layers with clean separation of business logic
+- Three-app system (Patient Portal + Admin Dashboard + Backend API) with 15+ RESTful endpoints for appointments, doctors, patients & messaging
+- JWT auth with bcrypt — full RBAC across 3 roles (Patient, Doctor, Admin); AI chatbot for smart department recommendations based on symptoms
+- Deployed on Vercel with Cloudinary CDN for doctor photo management
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010/Hospital-Management-System)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hospital-management-system-seven-sigma.vercel.app/)
+
+---
+
+### ⚖️ Criminal Management System
+> Java · Servlets · JSP · MySQL · Apache Tomcat · Jakarta EE 6
+
+- Full-stack MVC web app for criminal records administration — criminal browser, case types, laws, officers directory, and a complete complaint filing & tracking workflow
+- Admin and user portals with session-based auth; modular DAO pattern with clean separation of routing, business logic, and data access
+- Seeded MySQL database with 6 normalized tables including complaint lifecycle tracking with status history logs
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010/Criminal-Management-System)
+
+---
+
+### 💊 PharmaCare — Pharmacy Inventory & Billing System
+> Java · Servlets · JSP · MySQL · Apache Tomcat · Ant
+
+- Enterprise-level dual-portal system (Customer + Vendor) with automated inventory management via MySQL triggers eliminating manual stock updates on every order
+- SQL injection prevention via PreparedStatements; custom `SecurityUtil.java` class with XSS sanitization, email/password validation, and session timeout (30 min)
+- Normalized 5-table schema with foreign key constraints and automated business logic triggers
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010/PharmaCare-Management-System)
 
 ---
 
 ### 🏭 Industrial CMMS — Maintenance Tracking Platform
-> Java · Servlets · JSP · JDBC · MySQL · Chart.js
+> Java 8 · Jakarta Servlets · JSP · MySQL · Maven · Chart.js · Apache Tomcat 11
 
-- CMMS for 10+ machines across 4 roles: Admin, Engineer, Technician, Viewer
-- Role-based auth with session control; strict workflow separation between roles
-- Analytics dashboard with Chart.js visualizing maintenance trends & machine downtime
+- CMMS for industrial machines with 4-role RBAC (Admin / Engineer / Technician / Viewer) and strict workflow enforcement — each role sees only their permitted actions
+- Full maintenance request lifecycle: create → approve → assign → in-progress → complete, with service history and machine downtime logging
+- Analytics dashboard with Chart.js visualizing maintenance trends, machine status, and downtime metrics
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpitSingh4010/Industrial-Maintenance-Management-System)
 
 ---
 
@@ -107,6 +134,7 @@ I'm a **Computer Science undergraduate at SRM Institute of Science and Technolog
 | Certification | Issuer | Year |
 |---|---|---|
 | Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | 2025 |
+| MLSA — Web Developer | Microsoft Learn Student Ambassadors | Active |
 
 ---
 
